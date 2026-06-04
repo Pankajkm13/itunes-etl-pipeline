@@ -37,7 +37,7 @@ itunes-etl-pipeline/
 
 ---
 
-## 🔄 What the Pipeline Does
+##  What the Pipeline Does
 
 1. **Extract** — Calls iTunes Search API and fetches 50 tracks (Bollywood/Hindi music, India market)
 2. **Transform** — Cleans raw JSON data:
@@ -50,7 +50,7 @@ itunes-etl-pipeline/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 **1. Clone the repository**
 git clone https://github.com/Pankajkm13/itunes-etl-pipeline.git
@@ -72,7 +72,7 @@ python pipeline.py
 
 ---
 
-## 🔧 Setup Requirements
+## Setup Requirements
 
 - Python 3.10+
 - PostgreSQL 15+
@@ -80,6 +80,6 @@ python pipeline.py
 
 ---
 
-## 👨‍💻 Author
+## Author
 **Pankaj Kumar**  
 [LinkedIn](https://Linkedin.com/in/Pankajkm13) | [GitHub](https://github.com/Pankajkm13)
